@@ -33,7 +33,7 @@ Some of our features may still be in the exploratory stages, and have no timefra
 ## Roadmap Stages 🛣️
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the disclaimer below since the roadmap is subject to change, especially further out on the timeline. You'll also find an Exploratory column, which is used in conjunction with the in design and exploring release phase labels for when no timeframe is yet available.
 
-## ASPM Feature Areas 🌎
+## ASPM Focus Areas 🌎
 The following is a list of our current product areas:
 
 - **coverage:** Comprehensive security testing across development and operational environments, including cloud platforms, containers, and physical infrastructure.
